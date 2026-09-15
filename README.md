@@ -1,14 +1,18 @@
 # Maria Mahdavi Layen
-<p align="center">
-**Mathematics Student interested in Numerical Analysis and Scientific Machine Learning**</p>
 
 <p align="center">
-  <a [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaMahdavi)
-  </a>
-  <a [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria.mahdavi/)
+  <strong>Mathematics Student interested in Numerical Analysis and Scientific Machine Learning</strong>
+</p>
 
+<p align="center">
+  <a href="https://github.com/mariamahdavi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamahdavilayen@gmail.com)
+  <a href="https://www.linkedin.com/in/maria-mahdavilayen/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mariamahdavilayen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
