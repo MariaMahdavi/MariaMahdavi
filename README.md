@@ -70,3 +70,8 @@ Comparing major page ranking algorithms (PageRank, WPR, HITS, DistanceRank, Diri
 [![PINNs](https://img.shields.io/badge/Physics--Informed%20Neural%20Networks-555555?style=flat-square)]()
 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaMahdavi&show_icons=true&theme=default&hide_border=true)
+
+
+<div>
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mariamahdavi&" alt="mariamahdavi" />
+</div>
