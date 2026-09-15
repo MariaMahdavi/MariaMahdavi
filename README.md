@@ -1,10 +1,16 @@
 # Maria Mahdavi Layen
+<p align="center">
+**Mathematics Student interested in Numerical Analysis and Scientific Machine Learning**</p>
 
-**Mathematics Student interested in Numerical Analysis and Scientific Machine Learning**
+<p align="center">
+  <a [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaMahdavi)
+  </a>
+  <a [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria.mahdavi/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaMahdavi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria.mahdavi/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamahdavilayen@gmail.com)
+  </a>
+  <a [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamahdavilayen@gmail.com)
+  </a>
+</p>
 
 ## About Me
 
@@ -69,7 +75,6 @@ Comparing major page ranking algorithms (PageRank, WPR, HITS, DistanceRank, Diri
 [![NetworkX](https://img.shields.io/badge/NetworkX-2E8B57?style=flat-square)](https://networkx.org/)
 [![PINNs](https://img.shields.io/badge/Physics--Informed%20Neural%20Networks-555555?style=flat-square)]()
 
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaMahdavi&show_icons=true&theme=default&hide_border=true)
 
 
 <div>
